@@ -13,7 +13,7 @@ author: Văn Lộc
 
 navbar-links:
   Toán học: 
-    - Đại số tuyến tính: "linear_algebra"
+    - Đại số tuyến tính: "linear-algebra"
   About: "aboutme"
 # --- Local development options ---
 
