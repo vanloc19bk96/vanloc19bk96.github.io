@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: "Machine Learning For Beginner"
+title: "Machine Learning For You"
 
 # Short description of your site
 description: Machine Learning cũng như Deep Learning cho những người mới học
@@ -12,12 +12,16 @@ author: Văn Lộc
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
-
+  Toán Học:
+    - Đại Số Tuyến Tính: "http://deanattali.com/beautiful-jekyll/"
+    - Xác Suất Thống Kê: "http://www.markdowntutorial.com/"
+  Bài Viết: "http://deanattali.com"
+    - Machine Learning Cơ Bản: ""
+    - Computer vision: ""
+    - NLP: ""
+  Dự Án: ""
+  Tài Liệu: ""
+  About: "aboutme"
 # --- Local development options ---
 
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
