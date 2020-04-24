@@ -12,7 +12,7 @@ author: Văn Lộc
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  "Toán học": "aboutme"
+  Toán học: "aboutme"
   About: "aboutme"
 # --- Local development options ---
 
