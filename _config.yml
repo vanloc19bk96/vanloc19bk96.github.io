@@ -12,7 +12,8 @@ author: Văn Lộc
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Toán học: "aboutme"
+  Toán học: 
+    - Đại số tuyến tính: "linear_algebra"
   About: "aboutme"
 # --- Local development options ---
 
